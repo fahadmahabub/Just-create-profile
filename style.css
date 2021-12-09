@@ -1,0 +1,20 @@
+
+body{ 
+	background-color: seagreen;
+ }
+.image{
+	margin: 0 auto;
+	margin-bottom: 30px;
+	width: 30%;
+	border: 2px solid;
+
+
+}
+.image img{
+	width: 100%;
+}
+
+
+video {
+	width: 30%;
+}
